@@ -3,7 +3,7 @@ dotJunior
 
 About
 -----
-
+dotJunior (.junior) is a new TLD enabling children to safely browse selected websites. 
 
 Images
 ------
