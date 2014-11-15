@@ -3,7 +3,11 @@ dotJunior
 
 About
 -----
-dotJunior (.junior) is a new TLD enabling children to safely browse selected websites. 
+dotJunior (.junior) is a new TLD enabling children to safely browse selected websites. The project is not-for-profit meaning that we will be able to register domains either for free or for a nominal fee.
+
+Donate
+-----
+1CBnq6bRDbDBcFjn4d6nFjFMSr7eQaiDvU
 
 Images
 ------
