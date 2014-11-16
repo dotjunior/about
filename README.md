@@ -3,11 +3,13 @@ dotJunior
 
 About
 -----
-dotJunior (.junior) is an open source project/idea aiming to bring a safer internet to parents and children through the creation of a new Top Level Domain (like .com,.net or .org) called .junior.
+*dotJunior (.junior) is an open source project/idea aiming to bring a safer internet to parents and children through the creation of a new Top Level Domain (like .com,.net or .org) called .junior.*
 
 dotJunior will have a nominal registration fee and will only contain sites relevant and safe for children to view.
 
 For more infomation, visit our [website](http://dotjunior.com).
+
+Our aim is for ICANN to allow for the creation of the dotJunior extension managed by the dotJunior team and funded by contributions of supporters.
 
 Donate
 -----
